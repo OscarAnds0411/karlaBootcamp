@@ -1,5 +1,34 @@
 body{
-    background-color: #20aad8;
-    color:rgb(0,0,0); 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #9e6788;
+    color:#ffa43a; 
+    font-family: 'Nunito Sans', sans-serif;;
+}
+
+h1, p{
+    color:#4fa8fb;
+}
+h3{
+    color:#4e2542;
+}
+small{
+    color:black;
+}
+
+.gato1{
+    width:400px;
+    height:auto;
+    border-style: ridge;
+    border-color: #520039;
+    border-width: thick;
+    padding: 5px;
+    margin: 50px;
+}
+.gato2{
+    width:400px;
+    height:auto;
+    border-style: ridge;
+    border-color: #929292;
+    border-width: thick;
+    padding: 5px;
+    margin: 50px;
 }
